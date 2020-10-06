@@ -1,2 +1,2 @@
 # rock-paper-scissors-
-Interactuando con javascritp, nada fuera de lo normal solo ignora esto.
+Interactuando con javascript, nada fuera de lo normal solo ignora esto.
